@@ -1,13 +1,4 @@
 
-
-
-
-
-
-
-
-
-
 alert(`Choose the type of data bundle of your choice:\n
 1. Data Bundle (NO EXPIRY DATE)\n
 2. Calls & Sms (NO EXPIRY)\n
